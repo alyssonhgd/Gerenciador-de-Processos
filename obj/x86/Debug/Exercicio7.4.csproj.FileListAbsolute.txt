@@ -1,0 +1,2 @@
+C:\Users\Alyson\Documents\Visual Studio 2010\Projects\Exercicio7.4\Exercicio7.4\obj\x86\Debug\Exercicio7.4.exe
+C:\Users\Alyson\Documents\Visual Studio 2010\Projects\Exercicio7.4\Exercicio7.4\obj\x86\Debug\Exercicio7.4.pdb
